@@ -1,0 +1,6 @@
+{
+  "name": "VeloPlay",
+  "description": "All-in-one Android video player for local device videos, network stream URLs, in-app web video detection, hotspot streaming, mini-player multitasking, and Picture-in-Picture mode.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
